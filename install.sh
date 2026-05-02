@@ -15,6 +15,6 @@ link() {
   echo "Linked $src -> $dst"
 }
 
-link ".zshrc"           "$HOME/.zshrc"
-link ".config/ghostty"  "$HOME/.config/ghostty"
-link ".config/nvim"     "$HOME/.config/nvim"
+link "zshrc"    "$HOME/.zshrc"
+link "ghostty"  "$HOME/.config/ghostty"
+link "nvim"     "$HOME/.config/nvim"
