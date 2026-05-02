@@ -1,0 +1,6 @@
+theme = 
+font-family = SF Mono
+window-padding-x = 0
+window-padding-y = 0
+working-directory = home
+window-inherit-working-directory = false
