@@ -18,3 +18,4 @@ link() {
 link "zshrc"    "$HOME/.zshrc"
 link "ghostty"  "$HOME/.config/ghostty"
 link "nvim"     "$HOME/.config/nvim"
+link "zed"     "$HOME/.config/zed"
